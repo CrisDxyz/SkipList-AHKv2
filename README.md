@@ -2,7 +2,7 @@
 Skip list data structure implemented in AutoHotkey v2. Includes funcs to use Dim Echo Box (https://github.com/CrisDxyz/Dim_Echo_Box) instead of MsgBox for data display.
 
 # What is a ![Skip list]("https://en.wikipedia.org/wiki/Skip_list")?
-It's a probabilistic data structure with Θ(log(n)) time complexity on best case, O(n) on worst. Space complexity of O(n log(n)) since it uses towers. Check ![Big-O Cheat sheet]("https://www.bigocheatsheet.com/") for more info.
+It's a probabilistic data structure with Θ(log(n)) time complexity on best case, O(n) on worst. Space complexity of O(n log(n)). Check ![Big-O Cheat sheet]("https://www.bigocheatsheet.com/") for more info.
 
 # Wikipedia Example of how they work
 
